@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML/CSS, Linux, JavaScript**
 
-- 📫 How to reach me **ibironketomiwa4gmail.com**
+- 📫 How to reach me **ibironketomiwa4@gmail.com**
 
 - ⚡ Fun fact **I'm lovely,caring, and also funny. So easy to relate with. (NO BAD ENERGY)**
 
