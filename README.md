@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tomiwa_ibironke" target="blank"><img src="https://img.shields.io/twitter/follow/tomiwa_ibironke?logo=twitter&style=for-the-badge" alt="tomiwa_ibironke" /></a> </p>
 
-- 🔭 I’m currently working on **Development Projects**
+- 🔭 I’m currently working on Development Projects
+**
 
-- 🌱 I’m currently learning **Full stack Development, JavaScript, HTML/CSS, React and other Software development related languages and frameworks.**
+- 🌱 I’m currently learning Full stack Development, JavaScript, HTML/CSS, React, and other Software development-related languages and frameworks.
+**
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
@@ -17,7 +19,7 @@
 
 - 📫 How to reach me **ibironketomiwa4@gmail.com**
 
-- ⚡ Fun fact **I'm lovely,caring, and also funny. So easy to relate with. (NO BAD ENERGY)**
+- ⚡ Fun fact **I'm lovely, caring, and also funny. So easy to relate with. (NO BAD ENERGY)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
